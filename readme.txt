@@ -1,2 +1,1 @@
-Creating a new branch is quick &simple.
-df
+commit -m "dev1 branch commit"
